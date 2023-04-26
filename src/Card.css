@@ -1,0 +1,24 @@
+.card {
+    border: 1px solid black;
+    width: 17rem;
+    height: 15rem;
+    margin-top: 5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.description {
+    font-size: 19px;
+    line-height: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 1rem;
+}
+
+.title {
+    text-align: center;
+}
+
+.emoji {
+    font-size: 50px;
+    text-align: center;
+}
